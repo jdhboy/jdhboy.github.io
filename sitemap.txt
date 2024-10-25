@@ -1,5 +1,6 @@
+http://example.com/2024/10/25/npu%20cpu%20gpu/
+http://example.com/2024/09/24/%E7%83%AD%E7%82%B9%E5%88%86%E6%9E%90-%E7%BD%91%E7%BB%9C%E5%B8%A6%E8%B4%A7/
 http://example.com/google9fcc962d0d34197a.html
-http://example.com/2024/10/21/wen/
 http://example.com/2023/05/21/%E9%A9%AC%E5%85%8B%E6%80%9D/
 http://example.com/2024/10/21/shoming/
 http://example.com/about/index.html
@@ -8,3 +9,5 @@ http://example.com/about/index.html
 http://example.com/
 http://example.com/tags/%E5%85%AC%E5%91%8A/
 http://example.com/tags/%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/News/
+http://example.com/categories/News/
